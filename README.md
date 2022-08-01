@@ -8,7 +8,7 @@
 
 👨‍💻 Talvez futuro programador de jogos 👨‍💻
 
-🐗 Sei um pouco de Java 🐗
+🐗 Sei um pouco de Java e um pouco de Construct 🐗
 
 ✍ Aprendendo a desenhar ✍
 
